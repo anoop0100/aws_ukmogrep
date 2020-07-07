@@ -13,3 +13,8 @@ This package consists of two scripts which are used to provision services.
 - deploy_lambda_function.py & utils.py
 
 - lambda_function.py 
+
+
+
+
+![image](https://user-images.githubusercontent.com/33942737/86693779-97da7280-bfd0-11ea-8062-a98963ddbffb.png)
